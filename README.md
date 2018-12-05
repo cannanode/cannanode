@@ -5,7 +5,6 @@ CannaNode is a standardized, quick, and reliable cryptocurrency focused on the l
 
 [![Build Status](https://travis-ci.org/bevacqua/awesome-badges.svg?branch=master)](https://GitHub.com/cannanode/cannanode)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/cannanode/cannanode)
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/cannanode/cannanode/releases)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://GitHub.com/cannanode/cannanode)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
