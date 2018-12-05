@@ -41,8 +41,8 @@ if [[ $DOSETUPTWO =~ "y" ]] ; then
 CNODE-cli stop > /dev/null 2>&1
 wget https://github.com/cannanode/cannanode/releases/download/1.0.0.1/CannaNode.Ubuntu16.04.zip
 unzip CannaNode.Ubuntu16.04.zip
-cp ./cnode/CNODEd -d /usr/local/bin/
-cp ./cnode/CNODE-cli -d /usr/local/bin/
+cp ./cnode/CNODEd /usr/local/bin/
+cp ./cnode/CNODE-cli /usr/local/bin/
 chmod +x /usr/local/bin/CNODE*
 
 fi
