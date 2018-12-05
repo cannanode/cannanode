@@ -1,0 +1,26 @@
+# /etc/conf.d/CNODEd: config file for /etc/init.d/CNODEd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/CNODE/CNODE.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/CNODEd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/CNODEd.pid"
+
+# Where to write CNODEd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/CNODEd"
+
+# User and group to own CNODEd process
+#BITCOIND_USER="CNODE"
+#BITCOIND_GROUP="CNODE"
+
+# Path to CNODEd executable
+#BITCOIND_BIN="/usr/bin/CNODEd"
+
+# Nice value to run CNODEd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

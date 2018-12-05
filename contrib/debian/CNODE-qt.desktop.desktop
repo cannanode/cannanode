@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=CNODE
+Comment=CNODE P2P Cryptocurrency
+Exec=CNODE-qt %u
+Terminal=false
+Type=Application
+Icon=CNODE128
+MimeType=x-scheme-handler/CNODE;
+Categories=Office;Finance;
+Name[en_US]=CNODE-qt.desktop
