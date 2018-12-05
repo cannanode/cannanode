@@ -1,4 +1,4 @@
-![CNODE Logo](src/qt/res/images/cnode_logo_horizontal.png) 
+![CNODE Logo](src/qt/res/images/CNODE_logo_horizontal.png) 
 ## CNODE - Quick, Anonymous, Secure
 
 CannaNode is a standardized, quick, and reliable cryptocurrency focused on the legal cannabis industry. The first payment solution to revolutionise the cannabis industry. With its easy to use and secure masternode techonology CannaNode offers a decentralised payment network along with its various features which makes CannaNode easily adaptable and beneficial for both the vendors and the consumers.
