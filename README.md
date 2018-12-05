@@ -20,8 +20,10 @@ CannaNode is a standardized, quick, and reliable cryptocurrency focused on the l
 * [Manual Masternode Setup Guide](https://github.com/cannanode/cannanode/wiki/CannaNode-VPS-Masternode-Setup-Guide) - Detailed Masternode Guide for VPS
 
 ## Wallets
-* [Windows](https://raw.githubusercontent.com/cannanode/cannanode/master/releases/CannaNode_win64_v1.0.0.1.zip)
-* [Linux](https://raw.githubusercontent.com/cannanode/cannanode/master/releases/CannaNode_ubuntu16.04_v1.0.0.1.zip)
+* [Windows32bit](https://github.com/cannanode/cannanode/releases/download/1.0.0.1/CannaNode.Windows32bit.zip)
+* [Windows64bit](https://github.com/cannanode/cannanode/releases/download/1.0.0.1/CannaNode.Windows64bit.zip)
+* [Mac OS](https://github.com/cannanode/cannanode/releases/download/1.0.0.1/CannaNode.Mac.zip)
+* [Linux](https://github.com/cannanode/cannanode/releases/download/1.0.0.1/CannaNode.Ubuntu16.04.zip)
 
 
 ## One Click MN Installer
